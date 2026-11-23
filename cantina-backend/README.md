@@ -6,7 +6,7 @@ Projeto desenvolvido na UC9 para evoluir o acesso aos dados da cantina escolar.
 
 ## Requisitos
 
-- JDK 21.
+- JDK 25 (LTS).
 - Apache Maven.
 - VS Code com Extension Pack for Java.
 
